@@ -1,4 +1,4 @@
-# Disease_Detection
+# Detecting disease
 
 What are the most common medications for each disease?
 
