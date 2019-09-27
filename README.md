@@ -1,4 +1,4 @@
-# HealthCare-DiseasePrediction
+# Disease_Detection
 
 What are the most common medications for each disease?
 
